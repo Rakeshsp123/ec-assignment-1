@@ -60,9 +60,9 @@ The optimization problem is a minimization of cost.
 Each user must be assigned to exactly one server.
 Each server must not exceed its capacity constraint.
 🧑‍💻 Author
-Your Name
-University/Institute (if academic)
-Email (optional)
+Your Name rakesh kumar
+University/Institute (nit jamshedpur )
+Email (rakeshraj.dav@gmail.com)
 
 📃 License
 This code is for educational and research purposes only.
